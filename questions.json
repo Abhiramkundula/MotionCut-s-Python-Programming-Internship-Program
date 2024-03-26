@@ -1,0 +1,67 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Madrid"],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "What is the smallest planet in our solar system?",
+    "options": ["Earth", "Jupiter", "Mercury", "Venus"],
+    "answer": "Mercury"
+  },
+  { 
+    "question": "What is the highest mountain in the world?",
+    "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+    "answer": "Mount Everest"  
+  },
+  { 
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Michelangelo", "Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh"],
+    "answer": "Leonardo da Vinci"  
+  },
+  { 
+    "question": "What is the currency of Japan?",
+    "options": ["Euro", "Yen", "Dollar", "Pound"],
+    "answer": "Yen"  
+  },
+  { 
+    "question": "What is the chemical symbol for water?",
+    "options": ["O2", "CO2", "H2O", "NaCl"],
+    "answer": "H2O"  
+  },
+  { 
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "options": ["Tiger", "Elephant", "Lion", "Gorilla"],
+    "answer": "Lion"  
+  },
+  {
+    "question": "Who wrote the famous play 'Hamlet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Edgar Allan Poe", "Jane Austen"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "In what year did World War II begin?",
+    "options": ["1914", "1918", "1939", "1945"],
+    "answer": "1939"
+  }, 
+  {
+    "question": "What is the name of the largest desert in the world?",
+    "options": ["Gobi Desert", "Kalahari Desert", "Sahara Desert", "Arabian Desert"],
+    "answer": "Sahara Desert"
+  },
+  {
+    "question": "How many days are there in a regular year?",
+    "options": ["360", "365", "366", "350"],
+    "answer": "365"
+  },
+  {
+    "question": "What color do you get when you mix blue and yellow?",
+    "options": ["Orange", "Purple", "Red", "Green"],
+    "answer": "Green"
+  } 
+]
