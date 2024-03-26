@@ -52,9 +52,6 @@ Your final score is: 1/3
 ## Author
 This quiz game script was created by [Your Name]. Feel free to reach out for any questions or feedback.
 
-## License
-This project is licensed under the [License Name] license. See the LICENSE file for details.
-
 ## Contributing
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
 
